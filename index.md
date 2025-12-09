@@ -165,8 +165,8 @@ Where:
 * $E(t\mid x)$ = expected energy conditional on state
 * $\varepsilon$ = shock / noise / data error
 
-✔ **Both represent perturbation of the prior structure.**
-✔ **Both inject “surprise” or prediction error.**
+✔ **Both represent perturbation of the prior structure.**       
+✔ **Both inject “surprise” or prediction error.**        
 
 ---
 
@@ -194,7 +194,7 @@ The sign convention aligns perfectly:
 
 ---
 
-## **4. UX ↔ Turbulence / Curvature (\frac{d\bar{E}_x}{dt} \pm \frac{d^2E}{dt^2})**
+## **4. UX ↔ Turbulence / Curvature $\frac{d\bar{E}_x}{dt} \pm \frac{d^2E}{dt^2}$**
 
 This is the most beautiful part.
 
