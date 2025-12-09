@@ -18,7 +18,7 @@
 {% endraw %}
 
 # A
-**SGD = Stochastic Gradient Descent.**
+**[SGD](https://ukb-dt.github.io/deepgem/) = Stochastic Gradient Descent.**
 
 It’s the core optimization algorithm used to *train* machine learning models—including neural networks, transformers, and deep learning systems.
 
