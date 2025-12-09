@@ -125,7 +125,7 @@ I’ll lay them side-by-side:
 
 ---
 
-## **1. Simulation ↔ Initial State ((E, x))**
+## **1. Simulation ↔ Initial State $(E, x)$**
 
 **Simulation**
 
@@ -140,13 +140,13 @@ $$
 $$
 
 This is the initial condition of the system.
-The topology here: a **state manifold** with coordinates (E) (energy) and (x) (structure).
+The topology here: a **state manifold** with coordinates $E$ (energy) and $x$ (structure).
 
 ✔ **Both define the starting geometry.**
 
 ---
 
-## **2. Data + Loss ↔ Perturbation (E(t|x)+\varepsilon)**
+## **2. Data + Loss ↔ Perturbation $E(t|x)+\varepsilon$**
 
 **Data + Loss**
 
